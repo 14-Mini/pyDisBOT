@@ -8,7 +8,7 @@ import wikipedia
 import yfinance as yf
 import random
 
-#TOKEN=(ODU5ODI4NzgxNDY0MDI3MTc3.YNyX9A.bDPPUIJDlJa-mON50fmvk8qjcWI),though you can always regenrate this from 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘱𝘰𝘳𝘵𝘢𝘭 donot share this with anyone!
+#Though you can always regenrate the TOKEN from 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘱𝘰𝘳𝘵𝘢𝘭,  donot share the TOKEN with anyone!
 
 bot = commands.Bot(command_prefix = '.')
 
@@ -126,4 +126,7 @@ async def wiki(c, *, search):
 
 
 
-bot.run('ODU5ODI4NzgxNDY0MDI3MTc3.YNyX9A.bDPPUIJDlJa-mON50fmvk8qjcWI')
+bot.run("YOUR BOT'S TOKEN HERE")
+
+
+#If you need help with any of this, visit discord's offical discord.py, Thank You!
